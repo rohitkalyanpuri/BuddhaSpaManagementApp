@@ -1,0 +1,9 @@
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Entities\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.deps.json
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Entities\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.dll
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Entities\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.pdb
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Entities\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.csprojAssemblyReference.cache
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Entities\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.AssemblyInfoInputs.cache
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Entities\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.AssemblyInfo.cs
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Entities\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.csproj.CoreCompileInputs.cache
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Entities\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.dll
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Entities\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.pdb

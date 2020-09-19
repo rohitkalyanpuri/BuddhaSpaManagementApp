@@ -1,0 +1,14 @@
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.deps.json
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.dll
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.pdb
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.dll
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.dll
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.pdb
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.pdb
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.csprojAssemblyReference.cache
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.AssemblyInfoInputs.cache
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.AssemblyInfo.cs
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.csproj.CoreCompileInputs.cache
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.csproj.CopyComplete
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.dll
+D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.pdb

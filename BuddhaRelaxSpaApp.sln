@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuddhaRelaxSpaApp", "BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.csproj", "{EBF8C77A-1493-445B-B1B2-29CE295783EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuddhaRelaxSpaApp.Entities", "BuddhaRelaxSpaApp.Entities\BuddhaRelaxSpaApp.Entities.csproj", "{511E226B-FFFA-4EAD-9EE2-B19D6E295016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuddhaRelaxSpaApp.Repository", "BuddhaRelaxSpaApp.Repository\BuddhaRelaxSpaApp.Repository.csproj", "{26943BD8-3D78-4C3B-BB64-C6C6EF0FC548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuddhaRelaxSpaApp.Repository.Interfaces", "BuddhaRelaxSpaApp.Repository.Interfaces\BuddhaRelaxSpaApp.Repository.Interfaces.csproj", "{BC602BC7-E38A-4549-AC1D-74BF020B3FF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF8C77A-1493-445B-B1B2-29CE295783EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF8C77A-1493-445B-B1B2-29CE295783EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF8C77A-1493-445B-B1B2-29CE295783EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF8C77A-1493-445B-B1B2-29CE295783EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511E226B-FFFA-4EAD-9EE2-B19D6E295016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511E226B-FFFA-4EAD-9EE2-B19D6E295016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511E226B-FFFA-4EAD-9EE2-B19D6E295016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511E226B-FFFA-4EAD-9EE2-B19D6E295016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26943BD8-3D78-4C3B-BB64-C6C6EF0FC548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26943BD8-3D78-4C3B-BB64-C6C6EF0FC548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26943BD8-3D78-4C3B-BB64-C6C6EF0FC548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26943BD8-3D78-4C3B-BB64-C6C6EF0FC548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC602BC7-E38A-4549-AC1D-74BF020B3FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC602BC7-E38A-4549-AC1D-74BF020B3FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC602BC7-E38A-4549-AC1D-74BF020B3FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC602BC7-E38A-4549-AC1D-74BF020B3FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61AF2B6A-551E-4223-8F93-6A706986E738}
+	EndGlobalSection
+EndGlobal
