@@ -227,11 +227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rohit Backup\\BuddhaRelaxSpa\\BuddhaRelaxSpaAPI\\BuddhaRelaxSpaApp\\BuddhaRelaxSpaApp.Entities\\BuddhaRelaxSpaApp.Entities.csproj",
+      "projectUniqueName": "D:\\BuddhaSpaManagementApp\\BuddhaRelaxSpaApp.Entities\\BuddhaRelaxSpaApp.Entities.csproj",
       "projectName": "BuddhaRelaxSpaApp.Entities",
-      "projectPath": "D:\\Rohit Backup\\BuddhaRelaxSpa\\BuddhaRelaxSpaAPI\\BuddhaRelaxSpaApp\\BuddhaRelaxSpaApp.Entities\\BuddhaRelaxSpaApp.Entities.csproj",
+      "projectPath": "D:\\BuddhaSpaManagementApp\\BuddhaRelaxSpaApp.Entities\\BuddhaRelaxSpaApp.Entities.csproj",
       "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-      "outputPath": "D:\\Rohit Backup\\BuddhaRelaxSpa\\BuddhaRelaxSpaAPI\\BuddhaRelaxSpaApp\\BuddhaRelaxSpaApp.Entities\\obj\\",
+      "outputPath": "D:\\BuddhaSpaManagementApp\\BuddhaRelaxSpaApp.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zCli0ZKDHrMnUQPPGQEqvOglYKviScX02K/vbVMSSho0pS5p4aUx594TKY9Q6FNA+TLQX4a7EMXyuOcHnPTsPA==",
+  "dgSpecHash": "YYKgP9b0UTQz+jPOm9D2sQ6Z0LTSSahGzAn/7Poa0nypTbBusEPHRcwnnLOpa/ZEw84b7J5SPo6LtMyLzjip/A==",
   "success": true,
-  "projectFilePath": "D:\\Rohit Backup\\BuddhaRelaxSpa\\BuddhaRelaxSpaAPI\\BuddhaRelaxSpaApp\\BuddhaRelaxSpaApp.Repository\\BuddhaRelaxSpaApp.Repository.csproj",
+  "projectFilePath": "D:\\BuddhaSpaManagementApp\\BuddhaRelaxSpaApp.Repository\\BuddhaRelaxSpaApp.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rohit\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\rohit\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",

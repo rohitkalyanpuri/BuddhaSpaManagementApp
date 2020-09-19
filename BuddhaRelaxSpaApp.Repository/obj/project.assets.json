@@ -1423,11 +1423,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rohit Backup\\BuddhaRelaxSpa\\BuddhaRelaxSpaAPI\\BuddhaRelaxSpaApp\\BuddhaRelaxSpaApp.Repository\\BuddhaRelaxSpaApp.Repository.csproj",
+      "projectUniqueName": "D:\\BuddhaSpaManagementApp\\BuddhaRelaxSpaApp.Repository\\BuddhaRelaxSpaApp.Repository.csproj",
       "projectName": "BuddhaRelaxSpaApp.Repository",
-      "projectPath": "D:\\Rohit Backup\\BuddhaRelaxSpa\\BuddhaRelaxSpaAPI\\BuddhaRelaxSpaApp\\BuddhaRelaxSpaApp.Repository\\BuddhaRelaxSpaApp.Repository.csproj",
+      "projectPath": "D:\\BuddhaSpaManagementApp\\BuddhaRelaxSpaApp.Repository\\BuddhaRelaxSpaApp.Repository.csproj",
       "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-      "outputPath": "D:\\Rohit Backup\\BuddhaRelaxSpa\\BuddhaRelaxSpaAPI\\BuddhaRelaxSpaApp\\BuddhaRelaxSpaApp.Repository\\obj\\",
+      "outputPath": "D:\\BuddhaSpaManagementApp\\BuddhaRelaxSpaApp.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1446,8 +1446,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Rohit Backup\\BuddhaRelaxSpa\\BuddhaRelaxSpaAPI\\BuddhaRelaxSpaApp\\BuddhaRelaxSpaApp.Repository.Interfaces\\BuddhaRelaxSpaApp.Repository.Interfaces.csproj": {
-              "projectPath": "D:\\Rohit Backup\\BuddhaRelaxSpa\\BuddhaRelaxSpaAPI\\BuddhaRelaxSpaApp\\BuddhaRelaxSpaApp.Repository.Interfaces\\BuddhaRelaxSpaApp.Repository.Interfaces.csproj"
+            "D:\\BuddhaSpaManagementApp\\BuddhaRelaxSpaApp.Repository.Interfaces\\BuddhaRelaxSpaApp.Repository.Interfaces.csproj": {
+              "projectPath": "D:\\BuddhaSpaManagementApp\\BuddhaRelaxSpaApp.Repository.Interfaces\\BuddhaRelaxSpaApp.Repository.Interfaces.csproj"
             }
           }
         }

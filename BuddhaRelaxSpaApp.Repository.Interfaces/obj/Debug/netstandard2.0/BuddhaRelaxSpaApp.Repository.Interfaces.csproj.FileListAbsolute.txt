@@ -10,3 +10,15 @@ D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSp
 D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository.Interfaces\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.csproj.CopyComplete
 D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository.Interfaces\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.dll
 D:\Rohit Backup\BuddhaRelaxSpa\BuddhaRelaxSpaAPI\BuddhaRelaxSpaApp\BuddhaRelaxSpaApp.Repository.Interfaces\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.pdb
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.deps.json
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.dll
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.pdb
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.dll
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\bin\Debug\netstandard2.0\BuddhaRelaxSpaApp.Entities.pdb
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.csprojAssemblyReference.cache
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.AssemblyInfoInputs.cache
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.AssemblyInfo.cs
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.csproj.CopyComplete
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.dll
+D:\BuddhaSpaManagementApp\BuddhaRelaxSpaApp.Repository.Interfaces\obj\Debug\netstandard2.0\BuddhaRelaxSpaApp.Repository.Interfaces.pdb

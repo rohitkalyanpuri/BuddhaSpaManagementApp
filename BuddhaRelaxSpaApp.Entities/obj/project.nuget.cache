@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "++fdyHqfUG1I+tLAB7cv67qu651tZG2103Zd08A0ZDKDz07w9E4aD8qX5XzguZ9Moi17OE6hGchU0iIooC7PPQ==",
+  "dgSpecHash": "ksj+5zgsZ4yIOvNCiU+GoOl9//ABS2Be5d+P2ogY1CqXMOTqSiSQdgZFYmSk+0pI2kGkVruByCXbNvkr/GofDA==",
   "success": true,
-  "projectFilePath": "D:\\Rohit Backup\\BuddhaRelaxSpa\\BuddhaRelaxSpaAPI\\BuddhaRelaxSpaApp\\BuddhaRelaxSpaApp.Entities\\BuddhaRelaxSpaApp.Entities.csproj",
+  "projectFilePath": "D:\\BuddhaSpaManagementApp\\BuddhaRelaxSpaApp.Entities\\BuddhaRelaxSpaApp.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rohit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\rohit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
